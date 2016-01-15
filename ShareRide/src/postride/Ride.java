@@ -9,6 +9,7 @@ public class Ride {
 	String starttime;
 	int availableSeats;
 	int booked;
+	int booked2;
 	
 	public String getName() {
 		return name;
